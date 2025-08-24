@@ -1,5 +1,5 @@
 🌟 Mi Perfil de Programación
-Hola, soy [Tu Nombre Completo] y me especializo en desarrollo web. Me apasiona resolver problemas y crear soluciones tecnológicas eficientes. Te invito a explorar mis proyectos, que reflejan mi dedicación y el conjunto de habilidades que he adquirido.
+Hola, soy Francisco Maximiliano Perez y me especializo en desarrollo web. Me apasiona resolver problemas y crear soluciones tecnológicas eficientes. Te invito a explorar mis proyectos, que reflejan mi dedicación y el conjunto de habilidades que he adquirido.
 
 👨‍🎓 Formación Académica y Certificaciones
 Cuento con una base sólida en programación y desarrollo, que me permite adaptarme a nuevos desafíos y tecnologías.
@@ -23,6 +23,22 @@ Frameworks/Librerías	React Node.js Express
 Bases de Datos	MySQL MongoDB
 Herramientas	Git GitHub VS Code Figma
 
+## 🚀 Proyectos Destacados
+
+Aquí algunos de mis proyectos personales y académicos:
+
+| Proyecto | Descripción | Tecnologías |
+|----------|------------|-------------|
+| 🎭 **Alternativa Teatral** | Wireframe y diseño de alta fidelidad para una plataforma de reservas y cartelera de teatro. | Figma, HTML, CSS |
+| 🛒 **PEGASUS Store** | E-commerce con React.js, integración de carrito funcional y diseño responsive. | React, Vite, Bootstrap |
+| 🔐 **Sistema de Login & Registro** | Sistema completo con PHP, MySQL y seguridad de contraseñas. | PHP, MySQL, JS |
+
+## 📈 Actualmente Aprendiendo
+
+- 🟢 **Next.js** → Framework para React de última generación.
+- 🟢 **TypeScript** → Tipado estático y aplicaciones más robustas.
+- 🟢 **Arquitectura Frontend & Backend** → Mejores prácticas de desarrollo.
+
 Exportar a Hojas de cálculo
 🚀 Proyectos Destacados
 Estoy siempre en busca de proyectos interesantes para aplicar y expandir mis conocimientos. En mi perfil encontrarás:
@@ -35,11 +51,26 @@ Contribuciones: Participo en proyectos de código abierto para seguir aprendiend
 
 📫 Conéctate conmigo
 Puedes contactarme a través de mis otras redes profesionales o revisar mi portafolio para ver más de mi trabajo.
+📌 **Email:** proffran85@gmail.com  
+🌐 **LinkedIn:**   https://www.linkedin.com/in/franciscomaximilianoperez
+💻 **Portfolio Web:** https://github.com/Franchesco85 
 
-📈 Mis Estadísticas en GitHub
-A la comunidad de programadores le encanta ver un poco de "gamificación", así que puedes añadir insignias que muestren tus estadísticas de actividad en GitHub. Es algo opcional, pero muy recomendable.
+## 🏆 Certificaciones
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_DE_GITHUB]&theme=default&hide_border=true" alt="Racha de contribuciones" />
-</div>
+- 🎓 **Técnico en Programación** — Instituto Superior **TECLAB** *(Enero 2025)*  
+- 📜 **Python** — **Talento Tech** *(Gobierno de la Ciudad de Buenos Aires)*  
+- 📜 **Front-End JavaScript** — **Talento Tech** *(GCBA)*  
+- 📜 **React.js** — **Talento Tech** *(GCBA)*  
+
+---
+
+## ✨ Sobre mí
+
+Me considero una persona **proactiva, autodidacta** y con gran interés por la **tecnología y el aprendizaje continuo**.  
+Busco oportunidades para integrarme en **equipos de desarrollo** y aportar valor a través de **soluciones creativas e innovadoras**.
+
+---
+
+### 💡 “El aprendizaje constante es la clave para el crecimiento personal y profesional.”
+
+
