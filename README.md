@@ -1,107 +1,45 @@
-<!-- Encabezado con banner personalizado -->
-<p align="center">
-  <img src="https://i.imgur.com/8UwFqQw.png" alt="Banner - Francisco Pérez" width="100%">
-</p>
+🌟 Mi Perfil de Programación
+Hola, soy [Tu Nombre Completo] y me especializo en desarrollo web. Me apasiona resolver problemas y crear soluciones tecnológicas eficientes. Te invito a explorar mis proyectos, que reflejan mi dedicación y el conjunto de habilidades que he adquirido.
 
-<h1 align="center">👋 ¡Hola! Soy Francisco Pérez</h1>
-<h3 align="center">💻 Técnico en Programación | Desarrollador Web Full Stack | Apasionado por la Tecnología</h3>
+👨‍🎓 Formación Académica y Certificaciones
+Cuento con una base sólida en programación y desarrollo, que me permite adaptarme a nuevos desafíos y tecnologías.
 
----
+Técnico en Programación | Instituto Superior TECLAB (Egresado en enero de 2025)
 
-## 🧑‍💻 Sobre mí  
+Cursos intensivos en TALENTO TECH (Avalados por el Ministerio de Educación de la Ciudad de Buenos Aires):
 
-🎓 **Técnico en Programación**, egresado del **Instituto Superior TECLAB** *(Enero 2025)*.  
-📚 Certificaciones en **Python**, **Front-End JavaScript** y **React.js** por **Talento Tech** *(GCBA)*.  
-💡 Actualmente aprendiendo **Next.js**, **TypeScript** y **Testing** para optimizar la calidad de mis proyectos.  
-🚀 Apasionado por crear soluciones creativas y eficientes aplicando metodologías modernas.  
+🐍 Python: Fundamentos del lenguaje, estructuras de datos y programación orientada a objetos (POO).
 
----
+🌐 Front-End JavaScript: Desarrollo de interfaces dinámicas, manipulación del DOM y consumo de APIs.
 
-## 🏆 Certificaciones  
+⚛️ React JS: Creación de aplicaciones de una sola página (SPA), manejo de componentes y estados con Hooks.
 
-| Curso | Institución | Año |
-|-------|------------|------|
-| **Técnico en Programación** | Instituto Superior TECLAB | 2025 |
-| **Python** | Talento Tech - GCBA | 2024 |
-| **Front-End JavaScript** | Talento Tech - GCBA | 2024 |
-| **React.js** | Talento Tech - GCBA | 2024 |
+💻 Habilidades Técnicas
+Aquí tienes un vistazo a las tecnologías con las que trabajo habitualmente.
 
----
+Área	Tecnologías
+Lenguajes	JavaScript Python HTML CSS
+Frameworks/Librerías	React Node.js Express
+Bases de Datos	MySQL MongoDB
+Herramientas	Git GitHub VS Code Figma
 
-## 🛠️ Stack Tecnológico  
+Exportar a Hojas de cálculo
+🚀 Proyectos Destacados
+Estoy siempre en busca de proyectos interesantes para aplicar y expandir mis conocimientos. En mi perfil encontrarás:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,bootstrap,php,nodejs,express,mysql,mongodb,git,github,vscode" />
-</p>
+Proyectos de formación: Ejemplos que demuestran la aplicación de las habilidades aprendidas en mis cursos.
 
----
+Proyectos personales: Ideas y soluciones que he desarrollado por mi cuenta, donde verás mi iniciativa y creatividad.
 
-## 🌟 Proyectos Destacados  
+Contribuciones: Participo en proyectos de código abierto para seguir aprendiendo y colaborar con la comunidad.
+
+📫 Conéctate conmigo
+Puedes contactarme a través de mis otras redes profesionales o revisar mi portafolio para ver más de mi trabajo.
+
+📈 Mis Estadísticas en GitHub
+A la comunidad de programadores le encanta ver un poco de "gamificación", así que puedes añadir insignias que muestren tus estadísticas de actividad en GitHub. Es algo opcional, pero muy recomendable.
 
 <div align="center">
-
-<a href="https://github.com/TU-USUARIO/alternativa-teatral">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=alternativa-teatral&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TU-USUARIO/pegasus-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=pegasus-store&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TU-USUARIO/login-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=login-system&theme=tokyonight" />
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_DE_GITHUB]&theme=default&hide_border=true" alt="Racha de contribuciones" />
 </div>
-
-> 💡 **Tip**: Cambia `TU-USUARIO` por tu nombre de usuario real en GitHub para que las cards funcionen.
-
----
-
-## 📊 Estadísticas de mi Actividad  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=false" alt="Estadísticas de GitHub" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" alt="Racha de commits" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
-</p>
-
----
-
-## 📈 Actividad Semanal  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
-</p>
-
----
-
-## 📫 Contacto  
-
-<p align="center">
-  <a href="mailto:franciscoperez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/franciscoperez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 👁️ Contador de Visitas  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" alt="Contador de visitas"/>
-</p>
-
----
-
-### ✨ Frase que me inspira  
-> *"El aprendizaje constante es la clave para el crecimiento personal y profesional."*
