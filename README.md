@@ -29,9 +29,11 @@ Aquí algunos de mis proyectos personales y académicos:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|------------|-------------|
-| 🎭 **Alternativa Teatral** | Wireframe y diseño de alta fidelidad para una plataforma de reservas y cartelera de teatro. | Figma, HTML, CSS |
-| 🛒 **PEGASUS Store** | E-commerce con React.js, integración de carrito funcional y diseño responsive. | React, Vite, Bootstrap |
-| 🔐 **Sistema de Login & Registro** | Sistema completo con PHP, MySQL y seguridad de contraseñas. | PHP, MySQL, JS |
+| 🎭 **Alternativa Teatral** | Wireframe y diseño de alta fidelidad para una plataforma de reservas y cartelera de teatro. | **Figma**, HTML5, CSS3 |
+| 🛒 **PEGASUS Store** | E-commerce con **React.js** y **Vite**, integración de carrito funcional y diseño responsive moderno. | React, Vite, Bootstrap |
+| 🔐 **Sistema de Login & Registro** | Sistema completo con **PHP** y **MySQL**, gestión de usuarios, recuperación de contraseñas y cifrado. | PHP, MySQL, JS |
+| 🍽️ **Casa de Comidas Nabuconodosor** | Página web interactiva para una **casa de comidas familiar**. Permite explorar el menú, gestionar un carrito de compras flotante, conocer la historia de la empresa y contactar al negocio. Diseño responsive optimizado. | HTML5, CSS3, JavaScript, Bootstrap 5, Font Awesome |
+| ⚖️ **FMP Estudio Jurídico Integral** | Página web profesional para un **estudio de abogados**, con diseño moderno y adaptable. Incluye secciones de asesoramiento online, gestión de expedientes, contacto directo, ubicación, redes sociales y múltiples opciones de pago. | HTML5, CSS3, Bootstrap 5, Font Awesome |
 
 ## 📈 Actualmente Aprendiendo
 
