@@ -29,15 +29,16 @@ Aquí algunos de mis proyectos personales y académicos:
 
 🌐 Francisco Perez — Desarrollador Full Stack
 
-📚 Proyectos Destacados
-🏷️ Proyecto	📝 Descripción	🛠️ Tecnologías
-🎭 Alternativa Teatral	Wireframe y diseño de alta fidelidad para una plataforma web de cartelera y reservas teatrales.	Figma · Canva · HTML5 · CSS3
-🛒 PEGASUS Store	E-commerce moderno con carrito funcional, manejo de estado global y diseño responsive.	React · Vite · Bootstrap
-🔐 Sistema de Login & Registro	Sistema completo con gestión de usuarios, recuperación de contraseñas y cifrado de seguridad.	PHP · MySQL · JavaScript
-🍽️ Casa de Comidas Nabuconodosor	Sitio web interactivo para local gastronómico. Menú dinámico, carrito flotante y diseño responsive.	HTML5 · CSS3 · JavaScript · Bootstrap 5
-⚖️ FMP Estudio Jurídico Integral	Sitio profesional para estudio jurídico con secciones de asesoramiento, expedientes, ubicación y pagos.	HTML5 · CSS3 · Bootstrap 5 · JavaScript
-📦 Sistema de Gestión de Productos (Java – Preentrega)	Aplicación de consola con CRUD, búsquedas, actualizaciones y manejo de excepciones personalizadas.	Java · IntelliJ IDEA
-🧩 Proyecto-Final_SpringBoot v4.0.0	API REST profesional con CRUD completo, DTOs, validaciones, mappers y arquitectura MVC.	Java 21 · Spring Boot 4 · JPA · Hibernate · H2 · Maven
+| 🏷️ **Proyecto**                                           | 📝 **Descripción**                                                                                      | 🛠️ **Tecnologías**                                    |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 🎭 **Alternativa Teatral**                                 | Wireframe y diseño de alta fidelidad para una plataforma web de cartelera y reservas teatrales.         | Figma · Canva · HTML5 · CSS3                           |
+| 🛒 **PEGASUS Store**                                       | E-commerce moderno con carrito funcional, manejo de estado global y diseño responsive.                  | React · Vite · Bootstrap                               |
+| 🔐 **Sistema de Login & Registro**                         | Sistema completo con gestión de usuarios, recuperación de contraseñas y cifrado de seguridad.           | PHP · MySQL · JavaScript                               |
+| 🍽️ **Casa de Comidas Nabuconodosor**                      | Sitio web interactivo para local gastronómico. Menú dinámico, carrito flotante y diseño responsive.     | HTML5 · CSS3 · JavaScript · Bootstrap 5                |
+| ⚖️ **FMP Estudio Jurídico Integral**                       | Sitio profesional para estudio jurídico con secciones de asesoramiento, expedientes, ubicación y pagos. | HTML5 · CSS3 · Bootstrap 5 · JavaScript                |
+| 📦 **Sistema de Gestión de Productos (Java – Preentrega)** | Aplicación de consola con CRUD, búsquedas, actualizaciones y manejo de excepciones personalizadas.      | Java · IntelliJ IDEA                                   |
+| 🧩 **Proyecto-Final_SpringBoot v4.0.0**                    | API REST profesional con CRUD completo, DTOs, validaciones, mappers y arquitectura MVC.                 | Java 21 · Spring Boot 4 · JPA · Hibernate · H2 · Maven |
+
 
 📈 Actualmente Aprendiendo
 
