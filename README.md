@@ -27,19 +27,85 @@ Herramientas	Git GitHub VS Code Figma
 
 Aquí algunos de mis proyectos personales y académicos:
 
-| Proyecto | Descripción | Tecnologías |
-|----------|------------|-------------|
-| 🎭 **Alternativa Teatral** | Wireframe y diseño de alta fidelidad para una plataforma de reservas y cartelera de teatro. | **Figma**, Canva, HTML5, CSS3 |
-| 🛒 **PEGASUS Store** | E-commerce con **React.js** y **Vite**, integración de carrito funcional y diseño responsive moderno. | React, Vite, Bootstrap |
-| 🔐 **Sistema de Login & Registro** | Sistema completo con **PHP** y **MySQL**, gestión de usuarios, recuperación de contraseñas y cifrado. | PHP, MySQL, JS |
-| 🍽️ **Casa de Comidas Nabuconodosor** | Página web interactiva para una **casa de comidas familiar**. Permite explorar el menú, gestionar un carrito de compras flotante, conocer la historia de la empresa y contactar al negocio. Diseño responsive optimizado. | HTML5, CSS3, JavaScript, Bootstrap 5, Font Awesome |
-| ⚖️ **FMP Estudio Jurídico Integral** | Página web profesional para un **estudio de abogados**, con diseño moderno y adaptable. Incluye secciones de asesoramiento online, gestión de expedientes, contacto directo, ubicación, redes sociales y múltiples opciones de pago. | HTML5, CSS3, Bootstrap 5, Font Awesome |
+🌐 Francisco Perez — Desarrollador Full Stack
 
-## 📈 Actualmente Aprendiendo
+📚 Proyectos Destacados
+🏷️ Proyecto	📝 Descripción	🛠️ Tecnologías
+🎭 Alternativa Teatral	Wireframe y diseño de alta fidelidad para una plataforma web de cartelera y reservas teatrales.	Figma · Canva · HTML5 · CSS3
+🛒 PEGASUS Store	E-commerce moderno con carrito funcional, manejo de estado global y diseño responsive.	React · Vite · Bootstrap
+🔐 Sistema de Login & Registro	Sistema completo con gestión de usuarios, recuperación de contraseñas y cifrado de seguridad.	PHP · MySQL · JavaScript
+🍽️ Casa de Comidas Nabuconodosor	Sitio web interactivo para local gastronómico. Menú dinámico, carrito flotante y diseño responsive.	HTML5 · CSS3 · JavaScript · Bootstrap 5
+⚖️ FMP Estudio Jurídico Integral	Sitio profesional para estudio jurídico con secciones de asesoramiento, expedientes, ubicación y pagos.	HTML5 · CSS3 · Bootstrap 5 · JavaScript
+📦 Sistema de Gestión de Productos (Java – Preentrega)	Aplicación de consola con CRUD, búsquedas, actualizaciones y manejo de excepciones personalizadas.	Java · IntelliJ IDEA
+🧩 Proyecto-Final_SpringBoot v4.0.0	API REST profesional con CRUD completo, DTOs, validaciones, mappers y arquitectura MVC.	Java 21 · Spring Boot 4 · JPA · Hibernate · H2 · Maven
 
-- 🟢 **Next.js** → Framework para React de última generación.
-- 🟢 **TypeScript** → Tipado estático y aplicaciones más robustas.
-- 🟢 **Arquitectura Frontend & Backend** → Mejores prácticas de desarrollo.
+📈 Actualmente Aprendiendo
+
+Estoy ampliando mis habilidades como desarrollador Full Stack, con foco en backend avanzado:
+
+🟢 Java (Programación Avanzada)
+
+Buenas prácticas POO
+
+Manejo de excepciones
+
+Arquitectura por capas
+
+List, Map, Set
+
+🟢 Spring Boot 4
+
+API REST
+
+MVC
+
+Inyección de dependencias
+
+Validaciones
+
+Controller Advice
+
+🟢 Base de datos y persistencia
+
+H2 Database
+
+JPA / Hibernate
+
+Consultas Spring Data
+
+Depuración desde H2 Console
+
+🟢 Maven
+
+Gestión de dependencias
+
+Ciclo de vida del proyecto
+
+Empaquetado con Spring Boot
+
+🟢 Next.js
+
+Renderizado híbrido
+
+Server Components
+
+Routing moderno
+
+🟢 TypeScript
+
+Tipado estricto
+
+Interfaces y genéricos
+
+Mejores prácticas frontend
+
+🟢 Arquitectura Frontend & Backend
+
+Principios SOLID
+
+Patrones de diseño
+
+Separación en capas
 
 Exportar a Hojas de cálculo
 🚀 Proyectos Destacados
